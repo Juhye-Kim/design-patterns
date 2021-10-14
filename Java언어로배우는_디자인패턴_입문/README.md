@@ -10,3 +10,8 @@
 
 - [Chapter3. Template Method - 하위 클래스에서 구체적으로 처리하기](./Chapter3/README.md)
 - [Chapter4. Factory Method - 하위 클래스에서 인스턴스 만들기](./Chapter4/README.md)
+
+### Part3. 인스턴스 만들기
+
+- [Chapter5. Singleton - 인스턴스 한 개만 만들기](./Chapter5/README.md)
+- [Chapter6. Prototype - 복사해서 인스턴스 만들기](./Chapter6/README.md)
