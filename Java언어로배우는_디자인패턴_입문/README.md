@@ -16,3 +16,6 @@
 - [Chapter5. Singleton - 인스턴스 한 개만 만들기](./Chapter5/README.md)
 - [Chapter6. Prototype - 복사해서 인스턴스 만들기](./Chapter6/README.md)
 - [Chapter7. Builder - 복잡한 인스턴스 조립하기](./Chapter7/README.md)
+- [Chapter8. Abstract Factory - 관련 부품을 조합해 제품 만들기](./Chapter8/README.md)
+
+### Part4. 분리해서 생각하기
