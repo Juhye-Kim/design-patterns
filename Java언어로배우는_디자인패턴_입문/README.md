@@ -15,3 +15,4 @@
 
 - [Chapter5. Singleton - 인스턴스 한 개만 만들기](./Chapter5/README.md)
 - [Chapter6. Prototype - 복사해서 인스턴스 만들기](./Chapter6/README.md)
+- [Chapter7. Builder - 복잡한 인스턴스 조립하기](./Chapter7/README.md)
