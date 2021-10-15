@@ -24,3 +24,5 @@
 - [Chapter10. Strategy - 알고리즘을 모두 바꾸기](./Chapter10/README.md)
 
 ### Part5. 동일시하기
+
+- [Chapter11. Composite - 그릇과 내용물을 동일시하기](./Chapter11/README.md)
