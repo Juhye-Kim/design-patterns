@@ -26,3 +26,6 @@
 ### Part5. 동일시하기
 
 - [Chapter11. Composite - 그릇과 내용물을 동일시하기](./Chapter11/README.md)
+- [Chapter12. Decorator - 장식과 내용물을 동일시하기](./Chapter12/README.md)
+
+### Part6. 구조를 돌아다니기
