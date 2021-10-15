@@ -19,3 +19,5 @@
 - [Chapter8. Abstract Factory - 관련 부품을 조합해 제품 만들기](./Chapter8/README.md)
 
 ### Part4. 분리해서 생각하기
+
+- [Chapter9. Bridge - 기능 계층과 구현 계층 분리하기](./Chapter9/README.md)
