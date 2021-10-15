@@ -21,3 +21,6 @@
 ### Part4. 분리해서 생각하기
 
 - [Chapter9. Bridge - 기능 계층과 구현 계층 분리하기](./Chapter9/README.md)
+- [Chapter10. Strategy - 알고리즘을 모두 바꾸기](./Chapter10/README.md)
+
+### Part5. 동일시하기
