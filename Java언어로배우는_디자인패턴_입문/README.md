@@ -34,3 +34,5 @@
 - [Chapter14. Chain of Responsibility - 책임 떠넘기기](./Chapter14/README.md)
 
 ### Part7. 단순화하기
+
+- [Chapter15. Facade - 단순한 창구](./Chapter15/README.md)
