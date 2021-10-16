@@ -36,6 +36,8 @@
 ### Part7. 단순화하기
 
 - [Chapter15. Facade - 단순한 창구](./Chapter15/README.md)
-- [Chapter16. Mediator 패턴 - 중개인을 통해서 처리하기](./Chapter16/README.md)
+- [Chapter16. Mediator - 중개인을 통해서 처리하기](./Chapter16/README.md)
 
 ### Part8. 상태를 관리하기
+
+- [Chapter17. Observer - 상태 변화를 알려주기](./Chapter17/README.md)
