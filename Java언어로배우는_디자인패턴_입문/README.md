@@ -31,3 +31,6 @@
 ### Part6. 구조를 돌아다니기
 
 - [Chapter13. Visitor - 데이터 구조를 돌아다니면서 처리하기](./Chapter13/README.md)
+- [Chapter14. Chain of Responsibility - 책임 떠넘기기](./Chapter14/README.md)
+
+### Part7. 단순화하기
