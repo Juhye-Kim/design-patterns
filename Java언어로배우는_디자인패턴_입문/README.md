@@ -41,3 +41,4 @@
 ### Part8. 상태를 관리하기
 
 - [Chapter17. Observer - 상태 변화를 알려주기](./Chapter17/README.md)
+- [Chapter18. Memento - 상태를 저장하기](./Chapter18/README.md)
