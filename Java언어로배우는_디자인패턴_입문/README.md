@@ -45,3 +45,5 @@
 - [Chaapter19. State - 상태를 클래스로 표현하기](./Chapter19/README.md)
 
 ### Part9. 낭비 없애기
+
+- [Chapter20. Flyweight - 동일한 것을 공유해서 낭비 없애기](./Chapter20/README.md)
