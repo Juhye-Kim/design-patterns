@@ -42,8 +42,9 @@
 
 - [Chapter17. Observer - 상태 변화를 알려주기](./Chapter17/README.md)
 - [Chapter18. Memento - 상태를 저장하기](./Chapter18/README.md)
-- [Chaapter19. State - 상태를 클래스로 표현하기](./Chapter19/README.md)
+- [Chapter19. State - 상태를 클래스로 표현하기](./Chapter19/README.md)
 
 ### Part9. 낭비 없애기
 
 - [Chapter20. Flyweight - 동일한 것을 공유해서 낭비 없애기](./Chapter20/README.md)
+- [Chapter21. Proxy - 필요해지면 만들기](./Chapter21/README.md)
