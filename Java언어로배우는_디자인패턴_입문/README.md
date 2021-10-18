@@ -48,3 +48,7 @@
 
 - [Chapter20. Flyweight - 동일한 것을 공유해서 낭비 없애기](./Chapter20/README.md)
 - [Chapter21. Proxy - 필요해지면 만들기](./Chapter21/README.md)
+
+### Part10. 클래스로 표현하기
+
+- [Chapter22. Command - 명령을 클래스로하기](./Chapter22/README.md)
